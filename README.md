@@ -1,3 +1,4 @@
 # Notes about Machine Learning
-Notes about ML 
-3
+## References 
+- [Panda Documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [Seaborn](https://pandas.pydata.org/pandas-docs/stable/)
