@@ -5,6 +5,9 @@ This notes are based on Alura Machine Learning Course, you can check the course 
 # Tips
 - [Choosing the right estimator](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 
+# Theory
+
+
 # Projects
 
 - [Project 01](https://github.com/matheusmagalhaess/machine-learning/blob/main/Intro_to_ML_and_Classification_Project01.ipynb)
